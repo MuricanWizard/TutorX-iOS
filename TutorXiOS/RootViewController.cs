@@ -89,6 +89,16 @@ namespace TutorXiOS
 
 			return UIPageViewControllerSpineLocation.Mid;
 		}
-	}
+        
+        partial void Student_TouchUpInside(UIButton sender)
+        {
+            throw new NotImplementedException();
+        }
+
+        partial void UIButton1081_TouchUpInside(UIButton sender)
+        {
+            throw new NotImplementedException();
+        }
+    }
 }
 
